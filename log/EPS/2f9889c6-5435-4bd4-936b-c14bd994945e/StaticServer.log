@@ -1,8 +1,0 @@
-{"ts":"2022-05-07T21:28:45.847Z","pid":"34509","sev":"debug","v":"Initializing StaticServer"}
-{"ts":"2022-05-07T21:28:45.848Z","pid":"34509","sev":"info","v":"Static server serving content under /var/folders/0l/lpbwwg0j5zq25h16mt0qm8qw0000gn/T/tableau-temp/eps/2f9889c6-5435-4bd4-936b-c14bd994945e/static-server/app"}
-{"ts":"2022-05-07T21:28:45.860Z","pid":"34509","sev":"info","v":"Static server attempting to bind to port 9106"}
-{"ts":"2022-05-07T21:28:45.861Z","pid":"34509","sev":"info","v":"Hosting app under /var/folders/0l/lpbwwg0j5zq25h16mt0qm8qw0000gn/T/tableau-temp/eps/2f9889c6-5435-4bd4-936b-c14bd994945e/static-server/app at http://localhost:9106"}
-{"ts":"2022-05-07T21:28:47.659Z","pid":"34509","sev":"info","v":"Incoming request URL: /c942966d-4b6e-4b1e-a323-c000d7ec4958/taco-react-boilerplate-d113c598391936fd76678907702e759e82c7a28b762c89169058cbf5a496e011/?debug=false&connectionId=simulator&callerId=1&epsInstanceId=2f9889c6-5435-4bd4-936b-c14bd994945e&connectorClass=taco-react-boilerplate&serverUrl=http%3A%2F%2Flocalhost%3A9089&browserWatcherUrl=ws%3A%2F%2Flocalhost%3A9090&tacoPath=%2FUsers%2Fcraig%2FGithub%2Ftaco-react-boilerplate&connectionData=%7B%7D&secrets=%7B%7D"}
-{"ts":"2022-05-07T21:28:47.683Z","pid":"34509","sev":"info","v":"Incoming request URL: /c942966d-4b6e-4b1e-a323-c000d7ec4958/taco-react-boilerplate-d113c598391936fd76678907702e759e82c7a28b762c89169058cbf5a496e011/index.6d63f6f4.css"}
-{"ts":"2022-05-07T21:28:47.700Z","pid":"34509","sev":"info","v":"Incoming request URL: /c942966d-4b6e-4b1e-a323-c000d7ec4958/taco-react-boilerplate-d113c598391936fd76678907702e759e82c7a28b762c89169058cbf5a496e011/index.5cf22682.js"}
-{"ts":"2022-05-07T21:28:48.123Z","pid":"34509","sev":"info","v":"Incoming request URL: /favicon.ico"}
