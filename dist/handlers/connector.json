@@ -1,0 +1,29 @@
+{
+	"name": "another-wdc",
+	"version": "1",
+	"tableau-version": {
+		"min": "2022.2",
+		"max": "*"
+	},
+	"vendor": {
+		"name": "The Information Lab",
+		"support-link": "https://www.theinformationlab.co.uk",
+		"email": "support@theinformationlab.co.uk"
+	},
+	"permission": {
+		"api": {
+			"*": [
+				"GET",
+				"POST",
+				"HEAD"
+			]
+		}
+	},
+	"auth": {
+		"type": "none"
+	},
+	"window": {
+		"height": 600,
+		"width": 800
+	}
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<connector-plugin class='another-wdc' superclass='eps' plugin-version='1' name='another-wdc' version='2022.2'>
+<vendor-information>
+	<company name='The Information Lab'/>
+	<support-link url='https://www.theinformationlab.co.uk'/>
+</vendor-information>
+<connection-customization class="another-wdc" enabled="true" version="1">
+	<vendor name="salesforce"/>
+	<driver name="salesforce"/>
+	<customizations>
+	</customizations>
+</connection-customization>
+<connection-fields file='connection-fields.xml'/>
+<connection-metadata file='connection-metadata.xml'/>
+</connector-plugin>
